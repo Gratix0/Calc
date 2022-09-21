@@ -1,0 +1,15 @@
+C:\Users\ogani\source\repos\Calcullator\Calcullator\bin\Debug\net6.0\Calcullator.exe
+C:\Users\ogani\source\repos\Calcullator\Calcullator\bin\Debug\net6.0\Calcullator.deps.json
+C:\Users\ogani\source\repos\Calcullator\Calcullator\bin\Debug\net6.0\Calcullator.runtimeconfig.json
+C:\Users\ogani\source\repos\Calcullator\Calcullator\bin\Debug\net6.0\Calcullator.dll
+C:\Users\ogani\source\repos\Calcullator\Calcullator\bin\Debug\net6.0\Calcullator.pdb
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.csproj.AssemblyReference.cache
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.AssemblyInfoInputs.cache
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.AssemblyInfo.cs
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.csproj.CoreCompileInputs.cache
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.dll
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\refint\Calcullator.dll
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.pdb
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\Calcullator.genruntimeconfig.cache
+C:\Users\ogani\source\repos\Calcullator\Calcullator\obj\Debug\net6.0\ref\Calcullator.dll
